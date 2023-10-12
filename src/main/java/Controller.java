@@ -15,7 +15,7 @@ public enum Controller {
                 break;
             } else {
                 System.out.println(processor.processInput(input));
-                System.out.println("------------");
+                System.out.println("------pereryv------");
             }
         }
     }
